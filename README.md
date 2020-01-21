@@ -4,6 +4,6 @@
 #There is no real code here, this is only a sample to help learn github
 #write a bit about yourself.
 # Write a commit message that describes your changes  chaged to demo how branch edits work
-#
+#This is a test between master original and then review/merge via pull request
 #
 #
